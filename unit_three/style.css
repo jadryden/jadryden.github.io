@@ -6,7 +6,7 @@ h1{
 #logo { text-align: left;
 }
 #welcome{
-	color: #FF0060
+	color: #FF0060; background-image: url(https://jadryden.github.io/unit_three/images/Untitled%20design%20(8).png)
 }
 #help{
 	text-align: center;
@@ -14,6 +14,8 @@ h1{
 ul{
 	text-align: center; font-size: 40px;
 }
-#welcome {
-	text-align: center; font-size: 25px; margin-right: 3%, margin-left 3%,
+#NewPosts{
+	background-image: url("https://images.unsplash.com/photo-1496167117681-944f702be1f4?dpr=1&auto=compress,format&fit=crop&w=3289&h=&q=80&cs=tinysrgb&crop=");
+	width: 100%; height: 500px;
 }
+
