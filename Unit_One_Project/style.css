@@ -1,0 +1,17 @@
+body {
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+h1, p {
+    color: #FB00EA;
+}
+h1, h3{
+	font-family: Arial, sans-serif;
+	font-weight: 1200;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+h3{
+	font-size: 24px, 
+}
