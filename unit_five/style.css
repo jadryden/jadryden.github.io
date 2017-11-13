@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+h1{
+	color: #FF0060; text-align: center; font-size: 45; font-family: 'Crimson Text', serif;
+}
+blockquote {
+	color: black; 
+    font-family: 'Crimson Text', serif;
+}
+h2{
+	color: black; font-family: 'Crimson Text', serif;
+}
+#slogan {
+    font-family: 'Pacifico', cursive; 
+    text-align: center;
+}
+#logo { text-align: left;
+    font-family: 'Pacifico', cursive; 
+}
+
+#help{
+	text-align: center;
+}
+ul{
+	 font-size: 25px; 
+	color: teal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
